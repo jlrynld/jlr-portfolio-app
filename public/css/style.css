@@ -1,0 +1,80 @@
+/* Google Fonts Import Link */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+/* GENERAL */
+/* CSS when button is clicked */
+
+body {
+    font-family: "Poppins", serif !important;
+    color: #444444;
+    background-color: #191919 !important;
+}
+
+body::-webkit-scrollbar{ /* this hides the scrollbar but keeps the function */
+    display: none; /* for chrome */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.card{
+    background-color: #292929 !important;
+    display: inline-block;
+}
+
+.portfolio-card {
+    height: 400px;
+    padding: 40px;
+    font-size: 15px;
+}
+
+.text-color, .nav-link{
+    color:#FFF9E3 !important;
+}
+
+nav{
+    background-color: #202020;
+}
+
+
+
+/* Card animations */
+
+.animated-card {
+    animation: fadeIn 1.5s;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+
+/* Timeline line */
+
+.timeline {
+    position: relative;
+}
+
+.timeline-item {
+    position: relative;
+    padding-left: 20px;
+}
+
+.timeline-line {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background-color: #FFF9E3;
+}
+
+.timeline-content {
+    padding-left: 20px;
+}
