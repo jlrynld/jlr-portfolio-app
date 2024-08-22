@@ -27,11 +27,12 @@ body::-webkit-scrollbar{ /* this hides the scrollbar but keeps the function */
     font-size: 15px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 510px) {
     .portfolio-card {
       height: 250px;
       padding: 20px;
       font-size: 14px;
+      width: 510px;
     }
   }
 
