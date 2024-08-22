@@ -2,9 +2,9 @@
 
 @section('content')
 
-<div class="container-fluid" style="max-width: 1200px;">
+<div class="container-fluid">
 
-    <div class="col-md-6 mx-auto mt-2">
+    <div class="col-md-3 mx-auto mt-2">
         <div class="card mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h5 class="card-title fw-light">Hi, my name is</h5>
@@ -20,7 +20,7 @@
 
     <br><br><br><br><br>
 
-    <div class="col-md-12 mx-auto mt-2">
+    <div class="col-md-8 mx-auto mt-2">
         <div class="card mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ about</h3>
@@ -34,7 +34,7 @@
 
     <br>
 
-    <div class="col-md-12 mx-auto mt-5">
+    <div class="col-md-8 mx-auto mt-5">
         <div class="card animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
 
@@ -66,7 +66,7 @@
 
     <br>
 
-    <div class="col-md-12 mx-auto mt-5">
+    <div class="col-md-8 mx-auto mt-5">
         <div class="card mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ skills & tools</h3>
@@ -120,7 +120,7 @@
 
 
 
-        <div class="col-md-12 mt-5">
+        <div class="col-md-8 mx-auto mt-5">
             <div class="card mt-3 animated-card portfolio-card shadow rounded">
                 <div class="card-body text-color">
                     <h3 class="card-title">/ Projects</h3>
