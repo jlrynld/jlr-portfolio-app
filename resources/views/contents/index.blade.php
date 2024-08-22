@@ -4,9 +4,7 @@
 
 <div class="container-fluid" style="max-width: 1200px;">
 
-
-    <div class="row justify-content-center">
-        <div class="col-md-6 mt-2">
+        <div class="col-lg-6 mx-auto mt-2">
             <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 100%;">
                 <div class="card-body text-color">
                     <h5 class="card-title fw-light">Hi, my name is</h5>
@@ -19,12 +17,12 @@
                 <section id="about"></section>
             </div>
         </div>
-    </div>
+
 
         <br><br><br><br><br>
 
-        <div class="col-md-6 mt-2">
-            <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 200%;">
+        <div class="col-md-8 mt-2">
+            <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 150%;">
                 <div class="card-body text-color">
                     <h3 class="card-title">/ about</h3>
                     <p class="card-text mt-3 fw-light" style="font-size: 16px;">I'm a Fullstack Developer & Tech Support, based in the Philippines.
