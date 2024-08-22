@@ -99,14 +99,20 @@
                         </div>
 
                         <div class="d-flex justify-content-start mt-2">
-                            <img src="/css/images/Laravel-icon.png" class="text-color border rounded mx-2 text-center" style="width: 20%; height: 100px; object-fit: contain;">
+                            <i class='bx bxl-bootstrap text-color border rounded mx-2 text-center' style="font-size: 100px; width: 20%;"></i>
                             <i class='bx bxl-visual-studio text-color border rounded mx-2 text-center' style="font-size: 100px; width: 20%;"></i>
                             <i class='bx bxl-wordpress text-color border rounded mx-2 text-center' style="font-size: 100px; width: 20%;"></i>
                             <i class='bx bxl-github text-color border rounded mx-2 text-center' style="font-size: 100px; width: 20%;"></i>
                         </div>
 
+                        <div class="d-flex justify-content-start mt-2">
+                            <img src="/css/images/Laravel-icon.png" class="text-color border rounded mx-2 text-center" style="width: 20%; height: 100px; object-fit: contain;">
+                            <img src="/css/images/SQL-icon.png" class="text-color border rounded mx-2 text-center" style="width: 20%; height: 100px; object-fit: contain;">
+                            <i class='bx bxl-java text-color border rounded mx-2 text-center' style="font-size: 100px; width: 20%;"></i>
+                        </div>
+
                         <h6 class="card-text mt-4 mx-2 fw-light">
-                            I have a background in web development, particularly using Laravel to build dynamic websites. <br> I mainly use Visual Studio Code as my Text Editor or IDE.
+                            I have a strong background in web development, particularly using Laravel to build dynamic websites. <br> I mainly use Visual Studio Code as my Text Editor or IDE.
                         </h6>
 
                         <h6 class="card-text mt-4 mx-2 fw-light">
@@ -134,7 +140,20 @@
             <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 200%;">
                 <div class="card-body text-color">
                     <h3 class="card-title">/ Projects</h3>
-                    <div class="mt-2 mx-1">
+                    <div class="d-flex mt-2 mx-1">
+
+                        <div class="d-flex justify-content-start mt-4 text-color border rounded mx-1 p-2" style="width: fit-content;">
+                            <a href="https://github.com/jlrynld/EternalPlans-DTR" class="text-color text-decoration-none">
+                                <i class='bx bxs-book' style="font-size: 90px;"></i>
+                                <p class="align-self-center mx-4" style="font-weight: bold;">
+                                    School Management System <br>
+                                    <span class="fw-light">
+                                        Bangkal Elementary School Main
+                                    </span>
+                                </a>
+                                </p>
+                        </div>
+
                         <div class="d-flex justify-content-start mt-4 text-color border rounded mx-1 p-2" style="width: fit-content;">
                             <a href="https://github.com/jlrynld/EternalPlans-DTR" class="text-color text-decoration-none">
                                 <i class='bx bx-code-alt' style="font-size: 90px;"></i>
@@ -146,6 +165,8 @@
                                 </a>
                                 </p>
                         </div>
+
+
                     </div>
                 </div>
             </div>
