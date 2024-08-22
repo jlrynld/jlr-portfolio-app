@@ -4,8 +4,9 @@
 
 <div class="container-fluid" style="max-width: 1200px;">
 
+
     <div class="row justify-content-center">
-        <div class="col-md-6">
+        <div class="col-md-6 mt-2">
             <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 100%;">
                 <div class="card-body text-color">
                     <h5 class="card-title fw-light">Hi, my name is</h5>
@@ -20,18 +21,7 @@
         </div>
     </div>
 
-        {{-- <div class="col-md-4 offset-md-1">
-            <div class="card text-color animated-card" style="width: 105%; height: 105%; ">
-                <img class="card-img-top mt-3 p-3" src="css/images/ID.jpg" alt="Card image cap">
-                    <div class="card-body">
-                        {{-- <h5 style="font-family: Courier New, monospace;">Hi, my name is</h5> --}}
-                        {{-- <h3 class="card-title">/ John Louie B. Reynaldo</h3>
-                        <h6 style="font-family: Courier New, monospace;" class="">Web Developer / Tech Support</h6>
-                    </div>
-            </div>
-        </div> --}}
-
-        <br><br>
+        <br><br><br><br><br>
 
         <div class="col-md-6 mt-2">
             <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 200%;">
@@ -148,7 +138,7 @@
                                 <p class="align-self-center mx-4" style="font-weight: bold;">
                                     School Management System <br>
                                     <span class="fw-light">
-                                        Bangkal Elementary School Main
+                                    Bangkal Elementary School Main
                                     </span>
                                 </a>
                                 </p>
