@@ -4,74 +4,70 @@
 
 <div class="container-fluid" style="max-width: 1200px;">
 
-        <div class="col-lg-6 mx-auto mt-2">
-            <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 100%;">
-                <div class="card-body text-color">
-                    <h5 class="card-title fw-light">Hi, my name is</h5>
-                    <h3 class="card-text">John Louie B. Reynaldo</h3>
-                    <h6 style="" class="">Web Developer / Tech Support</h6>
-                        <a href="https://github.com/jlrynld" class="text-decoration-none">
-                            <i class='bx bxl-github text-end text-color' style="font-size: 35px;"></i>
-                        </a>
-                </div>
-                <section id="about"></section>
+    <div class="col-md-6 mx-auto mt-2">
+        <div class="card mt-3 animated-card portfolio-card shadow rounded">
+            <div class="card-body text-color">
+                <h5 class="card-title fw-light">Hi, my name is</h5>
+                <h3 class="card-text">John Louie B. Reynaldo</h3>
+                <h6>Web Developer / Tech Support</h6>
+                <a href="https://github.com/jlrynld" class="text-decoration-none">
+                    <i class='bx bxl-github text-end text-color' style="font-size: 35px;"></i>
+                </a>
             </div>
+            <section id="about"></section>
         </div>
+    </div>
 
+    <br><br><br><br><br>
 
-        <br><br><br><br><br>
-
-        <div class="col-md-8 mt-2">
-            <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 150%;">
-                <div class="card-body text-color">
-                    <h3 class="card-title">/ about</h3>
-                    <p class="card-text mt-3 fw-light" style="font-size: 16px;">I'm a Fullstack Developer & Tech Support, based in the Philippines.
-                        Currently focused on enhancing my skills in Web Development.<br>
-                        I will soon graduate with a Bachelor of Science in Information System from AMA Computer College on September 10, 2024.</p>
-                </div>
-                <section id="history"></section>
+    <div class="col-md-12 mx-auto mt-2">
+        <div class="card mt-3 animated-card portfolio-card shadow rounded">
+            <div class="card-body text-color">
+                <h3 class="card-title">/ about</h3>
+                <p class="card-text mt-3 fw-light" style="font-size: 16px;">I'm a Fullstack Developer & Tech Support, based in the Philippines.
+                    Currently focused on enhancing my skills in Web Development.<br>
+                    I will soon graduate with a Bachelor of Science in Information System from AMA Computer College on September 10, 2024.</p>
             </div>
+            <section id="history"></section>
         </div>
+    </div>
 
+    <br>
 
+    <div class="col-md-12 mx-auto mt-5">
+        <div class="card animated-card portfolio-card shadow rounded">
+            <div class="card-body text-color">
 
-        <br>
-
-        <div class="col-md-6 mt-5">
-            <div class="card animated-card portfolio-card shadow rounded" style="width: 200%;">
-                <div class="card-body text-color">
-
-                    <h3 class="card-title">/ history </h3>
-                    <div class="timeline mt-5">
-                        <div class="timeline-item">
-                            <div class="timeline-line"></div>
-                            <div class="timeline-content">
-                                <h4 class="card-text mt-3">Web System Development Associate Trainee & Tech Support</h4>
-                                <h5 class="card-text fw-light">Eternal Plans, Inc. <br>
-                                    <span class="fst-italic" style="font-size: 15px;">February 2024 - June 2024</span>
-                                </h5>
-                            </div>
+                <h3 class="card-title">/ history </h3>
+                <div class="timeline mt-5">
+                    <div class="timeline-item">
+                        <div class="timeline-line"></div>
+                        <div class="timeline-content">
+                            <h4 class="card-text mt-3">Web System Development Associate Trainee & Tech Support</h4>
+                            <h5 class="card-text fw-light">Eternal Plans, Inc. <br>
+                                <span class="fst-italic" style="font-size: 15px;">February 2024 - June 2024</span>
+                            </h5>
                         </div>
-                        <div class="timeline-item mt-4">
-                            <div class="timeline-line"></div>
-                            <div class="timeline-content">
-                                <h4 class="card-text mt-3">SHS Intern Wordpress Web Developer</h4>
-                                <h5 class="card-text fw-light">RXM Solutions <br>
-                                    <span class="fst-italic" style="font-size: 15px;"> November 2019 - March 2020</span>
-                                </h5>
-                            </div>
-                            <section id="skills"></section>
+                    </div>
+                    <div class="timeline-item mt-4">
+                        <div class="timeline-line"></div>
+                        <div class="timeline-content">
+                            <h4 class="card-text mt-3">SHS Intern Wordpress Web Developer</h4>
+                            <h5 class="card-text fw-light">RXM Solutions <br>
+                                <span class="fst-italic" style="font-size: 15px;"> November 2019 - March 2020</span>
+                            </h5>
                         </div>
+                        <section id="skills"></section>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
+    <br>
 
-        <br>
-
-        <div class="col-md-6 mt-5">
-            <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 200%;">
+        <div class="col-md-12 mx-auto mt-5">
+            <div class="card mt-3 animated-card portfolio-card shadow rounded">
                 <div class="card-body text-color">
                     <h3 class="card-title">/ skills & tools</h3>
 
@@ -124,8 +120,8 @@
 
 
 
-        <div class="col-md-6 mt-5">
-            <div class="card mt-3 animated-card portfolio-card shadow rounded" style="width: 200%;">
+        <div class="col-md-12 mt-5">
+            <div class="card mt-3 animated-card portfolio-card shadow rounded">
                 <div class="card-body text-color">
                     <h3 class="card-title">/ Projects</h3>
                     <div class="d-flex mt-2 mx-1">
