@@ -26,7 +26,7 @@
                 <h3 class="card-title">/ about</h3>
                 <p class="card-text mt-3 fw-light" style="font-size: 16px;">I'm a Fullstack Developer & Tech Support, based in the Philippines.
                     Currently focused on enhancing my skills in Web Development.<br>
-                    I will soon graduate with a Bachelor of Science in Information System from AMA Computer College on September 10, 2024.</p>
+                    I graduated with a Bachelor of Science in Information Technology from AMA Computer College on September 10, 2024.</p>
             </div>
             <section id="history"></section>
         </div>
