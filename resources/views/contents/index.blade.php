@@ -9,7 +9,7 @@
             <div class="card-body text-color">
                 <h5 class="card-title fw-light">Hi, my name is</h5>
                 <h3 class="card-text">John Louie B. Reynaldo</h3>
-                <h6>Web Developer / Tech Support</h6>
+                <h6>Web Developer</h6>
                 <a href="https://github.com/jlrynld" class="text-decoration-none">
                     <i class='bx bxl-github text-end text-color' style="font-size: 35px;"></i>
                 </a>
@@ -24,8 +24,8 @@
         <div class="card mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ about</h3>
-                <p class="card-text mt-3 fw-light" style="font-size: 16px;">I'm a Fullstack Developer & Tech Support, based in the Philippines.
-                    Currently focused on enhancing my skills in Web Development.<br>
+                <p class="card-text mt-3 fw-light" style="font-size: 18px;">I'm an aspiring Fullstack Developer based in the Philippines.
+                    Currently focused on enhancing my skills in Web Development.
                     I graduated with a Bachelor of Science in Information Technology from AMA Computer College on September 10, 2024.</p>
             </div>
             <section id="history"></section>
