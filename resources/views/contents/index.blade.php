@@ -9,9 +9,13 @@
             <div class="card-body text-color">
                 <h5 class="card-title fw-light">Hi, my name is</h5>
                 <h3 class="card-text">John Louie B. Reynaldo</h3>
-                <h6>ASpiring Web Developer</h6>
+                <h6>Aspiring Web Developer</h6>
                 <a href="https://github.com/jlrynld" class="text-decoration-none">
                     <i class='bx bxl-github text-end text-color' style="font-size: 35px;"></i>
+                </a>
+
+                <a href="https://www.linkedin.com/in/jlr7619" class="text-decoration-none">
+                    <i class='bx bxl-linkedin-square text-end text-color' style="font-size: 35px;"></i>
                 </a>
             </div>
             <section id="about"></section>
@@ -83,16 +87,17 @@
                 </div>
 
                 <div class="d-flex justify-content-start mt-2">
+                    <i class='bx bxl-java text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
+                    <i class='bx bxl-wordpress text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                     <i class='bx bxl-bootstrap text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                     <i class='bx bxl-visual-studio text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
-                    <i class='bx bxl-wordpress text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
-                    <i class='bx bxl-github text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                 </div>
 
                 <div class="d-flex justify-content-start mt-2">
                     <img src="/css/images/Laravel-icon.png" class="text-color border rounded mx-2 text-center img-icon" style="height: 100px; object-fit: contain;">
                     <img src="/css/images/SQL-icon.png" class="text-color border rounded mx-2 text-center img-icon" style="height: 100px; object-fit: contain;">
-                    <i class='bx bxl-java text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
+                    <i class='bx bxl-github text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
+                    <i class='bx bxl-git text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                 </div>
 
                 <h6 class="card-text mt-4 mx-2 fw-light">
@@ -100,8 +105,8 @@
                 </h6>
 
                 <h6 class="card-text mt-4 mx-2 fw-light">
-                    For version control and project collaboration, I rely on GitHub, where I manage all my repositories. <br>
-                    Additionally, I also have experience in using Hostinger for web hosting and domain management, ensuring a smooth deployment process.
+                    For version control and project collaboration, I rely on Git & GitHub, where I manage all my repositories. <br>
+                    Additionally, I also have experience in using Hostinger & Vercel for web hosting and domain management, ensuring a smooth deployment process.
                 </h6>
 
                 <div class="mx-2 mt-5">
@@ -123,11 +128,11 @@
         <div class="col-md-12 mt-5">
             <div class="card mt-3 animated-card portfolio-card shadow rounded">
                 <div class="card-body text-color">
-                    <h3 class="card-title">/ Projects</h3>
+                    <h3 class="card-title">/ Projects</p> </h3>
                     <div class="d-flex mt-2 mx-1">
 
                         <div class="d-flex justify-content-start mt-4 text-color border rounded mx-1 p-2" style="width: fit-content;">
-                            <a href="https://beslms.com" class="text-color text-decoration-none">
+                            <a href="#" class="text-color text-decoration-none">
                                 <i class='bx bxs-book' style="font-size: 90px;"></i>
                                 <p class="align-self-center mx-4" style="font-weight: bold;">
                                     School Management System <br>
@@ -149,6 +154,9 @@
                                 </a>
                                 </p>
                         </div>
+
+
+
                     </div>
                 </div>
             </div>
