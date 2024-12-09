@@ -28,7 +28,7 @@
         <div class="card mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ about</h3>
-                <p class="card-text mt-3 fw-light" style="font-size: 18px;">I'm an aspiring Fullstack Developer based in the Philippines.
+                <p class="card-text mt-3 fw-light" style="font-size: 18px;">I'm an Aspiring Web Developer based in the Philippines.
                     Currently focused on enhancing my skills in Web Development.
                     I graduated with a Bachelor of Science in Information Technology from AMA Computer College on September 10, 2024.</p>
             </div>
