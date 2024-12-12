@@ -132,7 +132,7 @@
                     <div class="d-flex mt-2 mx-1">
 
                         <div class="d-flex justify-content-start mt-4 text-color border rounded mx-1 p-2" style="width: fit-content;">
-                            <a href="https://drive.google.com/drive/folders/1in5DDsjzqYgYbv0b9gnGjWEZ-MXUCBKZ?usp=drive_link" class="text-color text-decoration-none">
+                            <a href="https://drive.google.com/drive/folders/1snLKLYc2XfJshlnUPionhCyR8Z4tYQ91?usp=drive_link" class="text-color text-decoration-none">
                                 <i class='bx bxs-book' style="font-size: 90px;"></i>
                                 <p class="align-self-center mx-4" style="font-weight: bold;">
                                     School Management System <br>
@@ -144,7 +144,7 @@
                         </div>
 
                         <div class="d-flex justify-content-start mt-4 text-color border rounded mx-1 p-2" style="width: fit-content;">
-                            <a href="https://github.com/jlrynld/EternalPlans-DTR" class="text-color text-decoration-none">
+                            <a href="https://drive.google.com/drive/folders/1yw-jAl-izcl1IIuIiT8RlogZawOM-j5i?usp=drive_link" class="text-color text-decoration-none">
                                 <i class='bx bx-code-alt' style="font-size: 90px;"></i>
                                 <p class="align-self-center mx-4" style="font-weight: bold;">
                                     Daily Time Record System <br>
