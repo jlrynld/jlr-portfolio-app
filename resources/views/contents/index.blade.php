@@ -2,9 +2,9 @@
 
 @section('content')
 
-<div class="container-fluid" style="max-width: 1400px; padding-top: 220px;">
+<div class="container-fluid" style="max-width: 1400px; padding-top: 200px;">
 
-    <div data-aos="zoom-in" class="col-md-8 mx-auto" style="padding-bottom: 410px;">
+    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom"  class="col-md-8 mx-auto" style="padding-bottom: 100px;">
         <div class="card mt-3 portfolio-card shadow rounded">
             <div class="card-body text-color d-flex flex-column flex-md-row align-items-center">
                 <img src="/css/images/1x1.png" class="profile-img mb-3" style="height: 250px; width: 250px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
@@ -25,7 +25,7 @@
         </div>
     </div>
 
-    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-md-12 mx-auto mt-5">
+    <div data-aos="zoom-in"  class="col-md-12 mx-auto mt-5">
         <div class="card mt-3 portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ about</h3>
@@ -37,7 +37,7 @@
         </div>
     </div>
 
-    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-md-12 mx-auto mt-5">
+    <div data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom" class="col-md-12 mx-auto mt-5">
         <div class="card animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
 
@@ -67,7 +67,7 @@
         </div>
     </div>
 
-    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-md-12 mx-auto mt-5">
+    <div data-aos="zoom-in" data-aos-anchor-placement="center-bottom" class="col-md-12 mx-auto mt-5">
         <div class="card mt-3 animated-card portfolio-card shadow rounded flex-wrap">
             <div class="card-body text-color">
                 <h3 class="card-title">/ skills & tools</h3>
@@ -118,7 +118,7 @@
         </div>
     </div>
 
-    <div data-aos="zoom-in" class="col-md-12 mt-5 mb-5">
+    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-md-12 mt-5 mb-5">
         <div class="card mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ Projects</p> </h3>
@@ -126,7 +126,7 @@
 
                     <div class="d-flex justify-content-start text-color border rounded mx-1 p-2 flex-wrap" style="width: auto;">
                         <a href="https://drive.google.com/drive/folders/1snLKLYc2XfJshlnUPionhCyR8Z4tYQ91?usp=drive_link" class="text-color text-decoration-none">
-                            <i class='bx bxs-book' style="font-size: 120px;"></i>
+                            <i class='bx bxs-book' style="font-size: 100px;"></i>
                             <p class="align-self-center mx-4" style="font-weight: bold;">
                                 School Management System <br>
                                 <span class="fw-light">
@@ -138,7 +138,7 @@
 
                     <div class="d-flex justify-content-start text-color border rounded mx-1 p-2 flex-wrap" style="width: auto;">
                         <a href="https://drive.google.com/drive/folders/1yw-jAl-izcl1IIuIiT8RlogZawOM-j5i?usp=drive_link" class="text-color text-decoration-none">
-                            <i class='bx bx-code-alt' style="font-size: 120px;"></i>
+                            <i class='bx bx-code-alt' style="font-size: 100px;"></i>
                             <p class="align-self-center mx-4" style="font-weight: bold;">
                                 Daily Time Record System <br>
                                 <span class="fw-light">
