@@ -67,7 +67,7 @@
         </div>
     </div>
 
-    <div data-aos="zoom-in" data-aos-anchor-placement="center-bottom" class="col-md-12 mx-auto mt-5">
+    <div data-aos="zoom-in" data-aos-anchor-placement="center-bottom" class="col-sm-12 mx-auto mt-5">
         <div class="card mt-3 animated-card portfolio-card shadow rounded flex-wrap">
             <div class="card-body text-color">
                 <h3 class="card-title">/ skills & tools</h3>
@@ -118,7 +118,7 @@
         </div>
     </div>
 
-    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-md-12 mt-5 mb-5">
+    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-sm-12 mt-5 mb-5">
         <div class="card mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ Projects</p> </h3>
