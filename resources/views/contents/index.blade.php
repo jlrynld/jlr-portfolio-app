@@ -7,10 +7,7 @@
     <div data-aos="zoom-in" class="col-md-8 mx-auto" style="padding-bottom: 410px;">
         <div class="card mt-3 portfolio-card shadow rounded">
             <div class="card-body text-color d-flex flex-column flex-md-row align-items-center">
-                <!-- Profile Image -->
-                <img src="{{ asset('css/images/1x1.jpg') }}" class="profile-img mb-3" style="height: 250px; width: 250px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
-
-                <!-- Text Content -->
+                <img src="/css/images/1x1.jpg" class="profile-img mb-3" style="height: 250px; width: 250px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
                 <div>
                     <h5 class="card-title fw-light">Hi, my name is</h5>
                     <h3 class="card-text">John Louie B. Reynaldo</h3>
