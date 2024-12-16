@@ -14,8 +14,8 @@
             "dest": "/api/index.php"
         },
         {
-            "src": "/android-chrome-192x192.png",
-            "dest": "/public/android-chrome-192x192.png"
+            "src": "/fav.png",
+            "dest": "/public/fav.png"
         }
     ],
     "env": {
