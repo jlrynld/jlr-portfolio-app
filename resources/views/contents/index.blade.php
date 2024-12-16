@@ -2,43 +2,45 @@
 
 @section('content')
 
-<div class="container-fluid" style="max-width: 1200px;">
+<div class="container-fluid" style="max-width: 1400px; padding-top: 220px;">
 
-    <div class="col-md-6 mx-auto mt-2">
-        <div class="card mt-3 animated-card portfolio-card shadow rounded">
-            <div class="card-body text-color">
-                <h5 class="card-title fw-light">Hi, my name is</h5>
-                <h3 class="card-text">John Louie B. Reynaldo</h3>
-                <h6>Aspiring Web Developer</h6>
-                <a href="https://github.com/jlrynld" class="text-decoration-none">
-                    <i class='bx bxl-github text-end text-color' style="font-size: 35px;"></i>
-                </a>
+    <div data-aos="zoom-in" class="col-md-8 mx-auto" style="padding-bottom: 410px;">
+        <div class="card mt-3 portfolio-card shadow rounded">
+            <div class="card-body text-color d-flex flex-column flex-md-row align-items-center">
+                <!-- Profile Image -->
+                <img src="{{ asset('css/images/1x1.jpg') }}" class="profile-img mb-3" style="height: 250px; width: 250px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
 
-                <a href="https://www.linkedin.com/in/jlr7619" class="text-decoration-none">
-                    <i class='bx bxl-linkedin-square text-end text-color' style="font-size: 35px;"></i>
-                </a>
+                <!-- Text Content -->
+                <div>
+                    <h5 class="card-title fw-light">Hi, my name is</h5>
+                    <h3 class="card-text">John Louie B. Reynaldo</h3>
+                    <h6>Aspiring Web Developer</h6>
+                    <a href="https://github.com/jlrynld" class="text-decoration-none">
+                        <i class='bx bxl-github text-end text-color' style="font-size: 35px;"></i>
+                    </a>
+
+                    <a href="https://www.linkedin.com/in/jlr7619" class="text-decoration-none">
+                        <i class='bx bxl-linkedin-square text-end text-color' style="font-size: 35px;"></i>
+                    </a>
+                </div>
             </div>
             <section id="about"></section>
         </div>
     </div>
 
-    <br><br><br><br><br>
-
-    <div class="col-md-12 mx-auto mt-2">
-        <div class="card mt-3 animated-card portfolio-card shadow rounded">
+    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-md-12 mx-auto mt-5">
+        <div class="card mt-3 portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ about</h3>
-                <p class="card-text mt-3 fw-light" style="font-size: 18px;">I'm an Aspiring Web Developer based in the Philippines.
-                    Currently focused on enhancing my skills in Web Development.
-                    I graduated with a Bachelor of Science in Information Technology from AMA Computer College on September of 2024.</p>
+                <p class="card-text mt-3 fw-normal" style="font-size: 18px;">
+                    Hi I'm JL, an aspiring web developer and a recent Bachelor of Science in Information Technology graduate with a passion for building dynamic and functional web applications. <br> <br>
+                    My expertise lies in PHP, with a strong focus on Laravel for back-end development and PHP Blade for front-end implementation. I am committed to continuously improving my skills to create efficient, scalable, and user-friendly solutions.</p>
             </div>
             <section id="history"></section>
         </div>
     </div>
 
-    <br>
-
-    <div class="col-md-12 mx-auto mt-5">
+    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-md-12 mx-auto mt-5">
         <div class="card animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
 
@@ -53,7 +55,7 @@
                             </h5>
                         </div>
                     </div>
-                    <div class="timeline-item mt-4">
+                    <div class="timeline-item mt-5">
                         <div class="timeline-line"></div>
                         <div class="timeline-content">
                             <h4 class="card-text mt-3">SHS Intern Wordpress Web Developer</h4>
@@ -68,10 +70,8 @@
         </div>
     </div>
 
-    <br>
-
-    <div class="col-md-12 mx-auto mt-5">
-        <div class="card mt-3 animated-card portfolio-card shadow rounded">
+    <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-md-12 mx-auto mt-5">
+        <div class="card mt-3 animated-card portfolio-card shadow rounded flex-wrap">
             <div class="card-body text-color">
                 <h3 class="card-title">/ skills & tools</h3>
 
@@ -79,21 +79,21 @@
                     <h5 class="card-text mt-4">Web Development</h5>
                 </div>
 
-                <div class="d-flex justify-content-start mt-4">
+                <div class="d-flex justify-content-start mt-4 flex-wrap">
                     <i class='bx bxs-file-html text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                     <i class='bx bxs-file-css text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                     <i class='bx bxl-php text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                     <i class='bx bxl-javascript text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                 </div>
 
-                <div class="d-flex justify-content-start mt-2">
+                <div class="d-flex justify-content-start mt-2 flex-wrap">
                     <i class='bx bxl-java text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                     <i class='bx bxl-wordpress text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                     <i class='bx bxl-bootstrap text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                     <i class='bx bxl-visual-studio text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
                 </div>
 
-                <div class="d-flex justify-content-start mt-2">
+                <div class="d-flex justify-content-start mt-2 flex-wrap">
                     <img src="/css/images/Laravel-icon.png" class="text-color border rounded mx-2 text-center img-icon" style="height: 100px; object-fit: contain;">
                     <img src="/css/images/SQL-icon.png" class="text-color border rounded mx-2 text-center img-icon" style="height: 100px; object-fit: contain;">
                     <i class='bx bxl-github text-color border rounded mx-2 text-center icon' style="font-size: 100px;"></i>
@@ -109,63 +109,52 @@
                     Additionally, I also have experience in using Hostinger & Vercel for web hosting and domain management, ensuring a smooth deployment process.
                 </h6>
 
-                <div class="mx-2 mt-5">
+                {{-- <div class="mx-2 mt-5">
                     <h5 class="card-text mt-4">Tech Support</h5>
                     <h6 class="card-text fw-light">
                         On the tech support side, I’m capable of troubleshooting, OS installations, and building PCs. <br>
                         I can also crimp LAN cables, design LAN setups for multiple PCs connected to a switch, configure routers for both static IPs and DHCP, and set up PCs efficiently.
                     </h6>
-                </div>
+                </div> --}}
             </div>
             <section id="projects"></section>
         </div>
     </div>
 
-        <br>
+    <div data-aos="zoom-in" class="col-md-12 mt-5 mb-5">
+        <div class="card mt-3 animated-card portfolio-card shadow rounded">
+            <div class="card-body text-color">
+                <h3 class="card-title">/ Projects</p> </h3>
+                <div class="d-flex mt-2 mx-1">
 
-
-
-        <div class="col-md-12 mt-5">
-            <div class="card mt-3 animated-card portfolio-card shadow rounded">
-                <div class="card-body text-color">
-                    <h3 class="card-title">/ Projects</p> </h3>
-                    <div class="d-flex mt-2 mx-1">
-
-                        <div class="d-flex justify-content-start mt-4 text-color border rounded mx-1 p-2" style="width: fit-content;">
-                            <a href="https://drive.google.com/drive/folders/1snLKLYc2XfJshlnUPionhCyR8Z4tYQ91?usp=drive_link" class="text-color text-decoration-none">
-                                <i class='bx bxs-book' style="font-size: 90px;"></i>
-                                <p class="align-self-center mx-4" style="font-weight: bold;">
-                                    School Management System <br>
-                                    <span class="fw-light">
-                                    Bangkal Elementary School Main
-                                    </span>
-                                </a>
-                                </p>
-                        </div>
-
-                        <div class="d-flex justify-content-start mt-4 text-color border rounded mx-1 p-2" style="width: fit-content;">
-                            <a href="https://drive.google.com/drive/folders/1yw-jAl-izcl1IIuIiT8RlogZawOM-j5i?usp=drive_link" class="text-color text-decoration-none">
-                                <i class='bx bx-code-alt' style="font-size: 90px;"></i>
-                                <p class="align-self-center mx-4" style="font-weight: bold;">
-                                    Daily Time Record System <br>
-                                    <span class="fw-light">
-                                        Eternal Plans, Inc.
-                                    </span>
-                                </a>
-                                </p>
-                        </div>
-
-
-
+                    <div class="d-flex justify-content-start text-color border rounded mx-1 p-2 flex-wrap" style="width: auto;">
+                        <a href="https://drive.google.com/drive/folders/1snLKLYc2XfJshlnUPionhCyR8Z4tYQ91?usp=drive_link" class="text-color text-decoration-none">
+                            <i class='bx bxs-book' style="font-size: 120px;"></i>
+                            <p class="align-self-center mx-4" style="font-weight: bold;">
+                                School Management System <br>
+                                <span class="fw-light">
+                                Bangkal Elementary School Main
+                                </span>
+                            </a>
+                            </p>
                     </div>
+
+                    <div class="d-flex justify-content-start text-color border rounded mx-1 p-2 flex-wrap" style="width: auto;">
+                        <a href="https://drive.google.com/drive/folders/1yw-jAl-izcl1IIuIiT8RlogZawOM-j5i?usp=drive_link" class="text-color text-decoration-none">
+                            <i class='bx bx-code-alt' style="font-size: 120px;"></i>
+                            <p class="align-self-center mx-4" style="font-weight: bold;">
+                                Daily Time Record System <br>
+                                <span class="fw-light">
+                                    Eternal Plans, Inc.
+                                </span>
+                            </a>
+                            </p>
+                    </div>
+
                 </div>
             </div>
         </div>
-
-        <br>
-        <br>
-        <br>
-
+    </div>
 </div>
 
 @endsection

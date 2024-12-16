@@ -1,5 +1,6 @@
 <nav class="navbar navbar-dark navbar-expand-lg fixed-top" style="font-size: 130%;">
     <div class="container-fluid">
+
         <i class='bx bx-outline text-color p-2' style="font-size: 30px; line-height: 10px"></i>
       <a class="navbar-brand text-color fw-bold" href="#home" style="font-size: 170%;">JL R.</a>
 

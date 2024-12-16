@@ -4,6 +4,10 @@
 /* GENERAL */
 /* CSS when button is clicked */
 
+html,body{
+    overflow-x: hidden;
+}
+
 body {
     font-family: "Poppins", serif !important;
     color: #444444;
@@ -22,17 +26,18 @@ body::-webkit-scrollbar{ /* this hides the scrollbar but keeps the function */
 }
 
 .portfolio-card {
-    height: 400px;
+    height: auto;
     padding: 40px;
     font-size: 15px;
+    width: auto;
 }
 
 @media only screen and (max-width: 510px) {
     .portfolio-card {
-      height: 250px;
+      height: auto;
       padding: 20px;
       font-size: 14px;
-      width: 510px;
+      width: auto;
     }
   }
 
@@ -143,3 +148,16 @@ nav{
       font-size: 0.8rem;
     }
   }
+
+
+  /* Initially hide the section */
+[data-aos] {
+    opacity: 0; /* Makes the section invisible */
+    visibility: hidden; /* Hides it from the layout */
+}
+
+/* When AOS triggers the animation, it will be shown with the animation */
+[data-aos].aos-animate {
+    opacity: 1;
+    visibility: visible;
+}
