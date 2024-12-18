@@ -1,4 +1,4 @@
 
 # About 
 
-oh look it's my portfolio
+This project was written using Laravel framework.
