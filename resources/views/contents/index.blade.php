@@ -121,32 +121,33 @@
     <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-sm-12 mt-5 mb-5">
         <div class="card mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
-                <h3 class="card-title">/ Projects</p> </h3>
+                <h3 class="card-title">/ projects</p> </h3>
                 <div class="d-flex mt-2 mx-1">
 
-                    <div class="d-flex justify-content-start text-color border rounded mx-1 p-2 flex-wrap" style="width: auto;">
-                        <a href="https://drive.google.com/drive/folders/1snLKLYc2XfJshlnUPionhCyR8Z4tYQ91?usp=drive_link" class="text-color text-decoration-none">
-                            <i class='bx bxs-book' style="font-size: 100px;"></i>
-                            <p class="align-self-center mx-4" style="font-weight: bold;">
-                                School Management System <br>
-                                <span class="fw-light">
-                                Bangkal Elementary School Main
-                                </span>
-                            </a>
-                            </p>
-                    </div>
+                    <a href="https://drive.google.com/drive/folders/1snLKLYc2XfJshlnUPionhCyR8Z4tYQ91?usp=drive_link" class="text-color text-decoration-none">
+                        <div class="d-flex justify-content-start text-color border rounded mx-1 p-2 flex-wrap" style="width: auto;">
+                                <i class='bx bxs-book' style="font-size: 100px;"></i>
+                                <p class="align-self-center mx-4" style="font-weight: bold;">
+                                    School Management System <br>
+                                    <span class="fw-light">
+                                    Bangkal Elementary School Main
+                                    </span>
 
-                    <div class="d-flex justify-content-start text-color border rounded mx-1 p-2 flex-wrap" style="width: auto;">
-                        <a href="https://drive.google.com/drive/folders/1yw-jAl-izcl1IIuIiT8RlogZawOM-j5i?usp=drive_link" class="text-color text-decoration-none">
-                            <i class='bx bx-code-alt' style="font-size: 100px;"></i>
-                            <p class="align-self-center mx-4" style="font-weight: bold;">
-                                Daily Time Record System <br>
-                                <span class="fw-light">
-                                    Eternal Plans, Inc.
-                                </span>
-                            </a>
-                            </p>
+                                </p>
+                        </div>
+                    </a>
+
+                    <a href="https://drive.google.com/drive/folders/1yw-jAl-izcl1IIuIiT8RlogZawOM-j5i?usp=drive_link" class="text-color text-decoration-none">
+                        <div class="d-flex justify-content-start text-color border rounded mx-1 p-2 flex-wrap" style="width: auto;">
+                                <i class='bx bx-code-alt' style="font-size: 100px;"></i>
+                                <p class="align-self-center mx-4" style="font-weight: bold;">
+                                    Daily Time Record System <br>
+                                    <span class="fw-light">
+                                        Eternal Plans, Inc.
+                                    </span>
+                                </p>
                     </div>
+                </a>
 
                 </div>
             </div>
