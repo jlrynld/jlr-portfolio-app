@@ -98,7 +98,7 @@
                 </div>
 
                 <h6 class="card-text mt-4 mx-2 fw-light">
-                    I have a strong background in web development, particularly using Laravel to build dynamic websites. <br> I mainly use Visual Studio Code as my Text Editor or IDE.
+                    My proficiency lies in PHP, with a strong focus on Laravel for back-end development and PHP Blade for front-end implementation. <br> I am committed to continuously improving my skills to create efficient, scalable, and user-friendly solutions.
                 </h6>
 
                 <h6 class="card-text mt-4 mx-2 fw-light">
