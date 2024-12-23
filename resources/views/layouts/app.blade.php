@@ -42,9 +42,11 @@
 
         {{-- AOS JS --}}
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+        {{-- ANIMATION SCRIPT AOS --}}
         <script>
             AOS.init({
-        duration: 1100,
+        duration: 1000,
         easing: 'ease-in-out',
         offset: 300,
         once: true,
