@@ -5,7 +5,7 @@
 <div class="container-fluid" style="max-width: 1400px; padding-top: 200px;">
 
     <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom"  class="col-md-8 mx-auto" style="padding-bottom: 100px;">
-        <div class="card mt-3 portfolio-card shadow rounded">
+        <div class="card rounded-5 mt-3 portfolio-card shadow rounded">
             <div class="card-body text-color d-flex flex-column flex-md-row align-items-center">
                 <img src="/css/images/1x1.png" class="profile-img mb-3" style="height: 250px; width: 250px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
                 <div>
@@ -26,7 +26,7 @@
     </div>
 
     <div data-aos="zoom-in"  class="col-md-12 mx-auto mt-5">
-        <div class="card mt-3 portfolio-card shadow rounded">
+        <div class="card rounded-5 mt-3 portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ about</h3>
                 <p class="card-text mt-3 fw-normal" style="font-size: 18px;">
@@ -38,7 +38,7 @@
     </div>
 
     <div data-aos="zoom-in" data-aos-anchor-placement="bottom-bottom" class="col-md-12 mx-auto mt-5">
-        <div class="card animated-card portfolio-card shadow rounded">
+        <div class="card rounded-5 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
 
                 <h3 class="card-title">/ history </h3>
@@ -68,7 +68,7 @@
     </div>
 
     <div data-aos="zoom-in" data-aos-anchor-placement="center-bottom" class="col-sm-12 mx-auto mt-5">
-        <div class="card mt-3 animated-card portfolio-card shadow rounded flex-wrap">
+        <div class="card rounded-5 mt-3 animated-card portfolio-card shadow rounded flex-wrap">
             <div class="card-body text-color">
                 <h3 class="card-title">/ skills & tools</h3>
 
@@ -119,7 +119,7 @@
     </div>
 
     <div data-aos="zoom-in" data-aos-anchor-placement="top-bottom" class="col-sm-12 mt-5 mb-5">
-        <div class="card mt-3 animated-card portfolio-card shadow rounded">
+        <div class="card rounded-5 mt-3 animated-card portfolio-card shadow rounded">
             <div class="card-body text-color">
                 <h3 class="card-title">/ projects</p> </h3>
                 <div class="d-flex mt-2 mx-1">

@@ -23,6 +23,7 @@ body::-webkit-scrollbar{ /* this hides the scrollbar but keeps the function */
 .card{
     background-color: #292929 !important;
     display: inline-block;
+
 }
 
 .portfolio-card {
