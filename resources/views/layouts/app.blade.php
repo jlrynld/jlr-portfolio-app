@@ -26,7 +26,7 @@
 
         @include('includes.navbar')
 
-        @yield('content')
+        @yield('contents')
 
         {{-- Font-awesome JS CDN --}}
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"></script>
@@ -46,7 +46,7 @@
         {{-- ANIMATION SCRIPT AOS --}}
         <script>
             AOS.init({
-        duration: 1000,
+        duration: 700,
         easing: 'ease-in-out',
         offset: 300,
         once: true,

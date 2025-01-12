@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('content')
+@section('contents')
 
 <div class="container-fluid" style="max-width: 1400px; padding-top: 200px;">
 
