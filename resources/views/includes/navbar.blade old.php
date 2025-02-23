@@ -46,7 +46,6 @@
                     <h5 class="mx-auto header text-color">Contact</h5>
                 </a>
             </li>
-
         </ul>
     </nav>
 </div>
