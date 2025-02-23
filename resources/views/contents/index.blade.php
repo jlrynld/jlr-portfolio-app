@@ -11,7 +11,7 @@
                 <div>
                     <h5 class="card-title fw-light">Hi, my name is</h5>
                     <h3 class="card-text">John Louie B. Reynaldo</h3>
-                    <h6>Aspiring Web Developer</h6>
+                    <h6>Web Developer / Technical Support</h6>
                     <a href="https://github.com/jlrynld" class="text-decoration-none">
                         <i class='bx bxl-github text-end text-color' style="font-size: 35px;"></i>
                     </a>
@@ -30,7 +30,7 @@
             <div class="card-body text-color">
                 <h3 class="card-title">/ about</h3>
                 <p class="card-text mt-3 fw-normal" style="font-size: 18px;">
-                    Hi I'm JL, an aspiring web developer and a recent Bachelor of Science in Information Technology graduate with a passion for building dynamic and functional web applications. <br> <br>
+                    Hi I'm JL, a recent Bachelor of Science in Information Technology graduate with a passion for building dynamic and functional web applications. <br> <br>
                     My expertise lies in PHP, with a strong focus on Laravel for back-end development and PHP Blade for front-end implementation. I am committed to continuously improving my skills to create efficient, scalable, and user-friendly solutions.</p>
             </div>
             <section id="history"></section>
@@ -106,13 +106,13 @@
                     Additionally, I also have experience in using Hostinger & Vercel for web hosting and domain management, ensuring a smooth deployment process.
                 </h6>
 
-                {{-- <div class="mx-2 mt-5">
+                <div class="mx-2 mt-5">
                     <h5 class="card-text mt-4">Tech Support</h5>
                     <h6 class="card-text fw-light">
                         On the tech support side, I’m capable of troubleshooting, OS installations, and building PCs. <br>
                         I can also crimp LAN cables, design LAN setups for multiple PCs connected to a switch, configure routers for both static IPs and DHCP, and set up PCs efficiently.
                     </h6>
-                </div> --}}
+                </div>
             </div>
             <section id="projects"></section>
         </div>
