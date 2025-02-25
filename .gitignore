@@ -6,3 +6,5 @@
 /public/.htaccess
 /storage
 storage/*.key
+
+.vercel
