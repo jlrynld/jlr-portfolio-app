@@ -2,6 +2,7 @@
     "private": true,
     "type": "module",
     "scripts": {
+        "postinstall": "chmod +x node_modules/.bin/vite",
         "dev": "vite",
         "build": "vite build"
     },

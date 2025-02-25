@@ -11,7 +11,7 @@
                 <div>
                     <h5 class="card-title fw-light">Hi, my name is</h5>
                     <h3 class="card-text">John Louie B. Reynaldo</h3>
-                    <h6>Web Developer / Technical Support</h6>
+                    <h6>Aspiring IT Professional</h6>
                     <a href="https://github.com/jlrynld" class="text-decoration-none">
                         <i class='bx bxl-github text-end text-color' style="font-size: 35px;"></i>
                     </a>
